@@ -203,7 +203,6 @@ I'm not looking for management. I want to write code, design systems, and ship.
   <i>M.S. Computer Science — Texas A&M University Kingsville | B.S. Computer Science — PES Institute of Technology, Bangalore</i>
 </p>
 
-<!-- Snake animation — requires GitHub Action setup (see below) -->
-<!-- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/suhasmadupuri93/suhasmadupuri93/output/github-snake.svg" alt="Snake animation" />
-</p> -->
+</p>
