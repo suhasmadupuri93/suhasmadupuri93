@@ -1,9 +1,16 @@
-### Hey, I'm Suhas 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A4FC&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey%2C+I'm+Suhas+%F0%9F%91%8B;Senior+Software+Engineer+%7C+9%2B+Years;Go+%C2%B7+Python+%C2%B7+Kubernetes+%C2%B7+AI+Agents" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Suhas-Madupuri)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msuhas850@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suhasmadupuri93)
-[![Location](https://img.shields.io/badge/Frisco,_TX-open_to_remote-blue?style=for-the-badge)]()
+<p align="center">
+  <a href="https://linkedin.com/in/Suhas-Madupuri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:msuhas850@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/suhasmadupuri93"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Frisco,_TX-open_to_remote-blue?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=suhasmadupuri93&style=for-the-badge&color=brightgreen" alt="Profile views" />
+</p>
+
+---
 
 I'm a Senior Software Engineer with **9+ years** in the trenches of distributed systems. My days are spent building **Comcast's internal secrets-management platform** — think HashiCorp Vault, Go microservices, Kafka event pipelines, all running on AKS. My nights (and weekends) go toward **production AI agent infrastructure** — multi-provider LLM routing, RAG pipelines, and durable agent workflows that actually run in prod, not just in notebooks.
 
@@ -13,20 +20,37 @@ I like systems that don't page people at 3am, code that's boring in the best way
 
 ---
 
+#### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suhasmadupuri93&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+---
+
 #### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhasmadupuri93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhasmadupuri93&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suhasmadupuri93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhasmadupuri93&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhasmadupuri93&theme=tokyonight&hide_border=true" />
 </p>
 
+#### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhasmadupuri93&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
 ---
 
-#### 🛠 What I work with daily
+#### 🛠 Tech Stack
+
+<table>
+<tr><td valign="top" width="33%">
 
 **Languages**
 
@@ -36,6 +60,8 @@ I like systems that don't page people at 3am, code that's boring in the best way
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
+</td><td valign="top" width="33%">
+
 **Backend & APIs**
 
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
@@ -43,6 +69,8 @@ I like systems that don't page people at 3am, code that's boring in the best way
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Echo](https://img.shields.io/badge/Echo-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+</td><td valign="top" width="33%">
 
 **Infrastructure & Cloud**
 
@@ -54,15 +82,20 @@ I like systems that don't page people at 3am, code that's boring in the best way
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
+</td></tr>
+<tr><td valign="top" width="33%">
+
 **Data & Streaming**
 
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+
+</td><td valign="top" width="33%">
 
 **AI / ML**
 
@@ -72,6 +105,8 @@ I like systems that don't page people at 3am, code that's boring in the best way
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
+</td><td valign="top" width="33%">
+
 **Security & Observability**
 
 ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black)
@@ -80,17 +115,36 @@ I like systems that don't page people at 3am, code that's boring in the best way
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
 
+</td></tr>
+</table>
+
 ---
 
 #### 🔭 What I'm building right now
 
-- **Secrets platform @ Comcast Cybersecurity** — Go microservices + gRPC APIs on top of HashiCorp Vault (AppRole, KV2, policies). Event-driven secret rotation, audit propagation, and policy updates over Kafka. On-call for production incidents across platform and SRE teams.
+<details>
+<summary><b>Secrets platform @ Comcast Cybersecurity</b></summary>
+<br>
+Go microservices + gRPC APIs on top of HashiCorp Vault (AppRole, KV2, policies). Event-driven secret rotation, audit propagation, and policy updates over Kafka. On-call for production incidents across platform and SRE teams.
+</details>
 
-- **Multi-provider LLM routing layer** — Go + Python (FastAPI/Pydantic) abstraction that routes inference across OpenAI, Claude, and Vertex AI. Cut monthly inference spend **~30%** by pushing high-volume classification to smaller open-source models on internal GPU nodes while reserving large models for complex reasoning.
+<details>
+<summary><b>Multi-provider LLM routing layer</b></summary>
+<br>
+Go + Python (FastAPI/Pydantic) abstraction that routes inference across OpenAI, Claude, and Vertex AI. Cut monthly inference spend <b>~30%</b> by pushing high-volume classification to smaller open-source models on internal GPU nodes while reserving large models for complex reasoning.
+</details>
 
-- **RAG pipeline over internal runbooks** — LangChain + sentence-transformers, vector embeddings in OpenSearch, covering Confluence pages and Vault policy docs. Built an evaluation framework (pytest + Pandas) that gates every prompt and model change on accuracy, hallucination rate, and per-call cost before anything hits production.
+<details>
+<summary><b>RAG pipeline over internal runbooks</b></summary>
+<br>
+LangChain + sentence-transformers, vector embeddings in OpenSearch, covering Confluence pages and Vault policy docs. Built an evaluation framework (pytest + Pandas) that gates every prompt and model change on accuracy, hallucination rate, and per-call cost before anything hits production.
+</details>
 
-- **Serverless tool-invocation layer** — AWS Lambda + Pydantic schemas so agents execute typed, well-scoped actions (rotate a Vault secret, fetch a Kafka offset, query Postgres) instead of free-form code. Full audit trails, prompt-injection filters, and PII redaction (regex + spaCy NER) before anything leaves the network.
+<details>
+<summary><b>Serverless tool-invocation layer</b></summary>
+<br>
+AWS Lambda + Pydantic schemas so agents execute typed, well-scoped actions (rotate a Vault secret, fetch a Kafka offset, query Postgres) instead of free-form code. Full audit trails, prompt-injection filters, and PII redaction (regex + spaCy NER) before anything leaves the network.
+</details>
 
 ---
 
@@ -108,10 +162,14 @@ I like systems that don't page people at 3am, code that's boring in the best way
 
 #### 🔢 Numbers that matter
 
-- **500K+** daily healthcare claims processed through Go microservices at Centene
-- **~30%** reduction in monthly LLM inference spend through smart model routing
-- **9+** years shipping production distributed systems
-- **5** companies, every one of them in production Go
+<p align="center">
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| **500K+** | **~30%** | **9+** | **5** |
+| daily claims processed | LLM cost reduction | years shipping | companies in prod Go |
+
+</p>
 
 ---
 
@@ -129,15 +187,23 @@ I'm not looking for management. I want to write code, design systems, and ship.
 
 #### 📫 Fastest way to reach me
 
-- 📧 **msuhas850@gmail.com**
-- 📱 **(737) 235-8117**
-- 💼 [linkedin.com/in/Suhas-Madupuri](https://linkedin.com/in/Suhas-Madupuri)
-- 📍 Frisco, TX — open to fully remote
+<p align="center">
+  <a href="mailto:msuhas850@gmail.com"><img src="https://img.shields.io/badge/📧_msuhas850@gmail.com-EA4335?style=for-the-badge" /></a>
+  <a href="tel:+17372358117"><img src="https://img.shields.io/badge/📱_(737)_235--8117-2196F3?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/Suhas-Madupuri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhasmadupuri93&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
-*M.S. Computer Science — Texas A&M University Kingsville | B.S. Computer Science — PES Institute of Technology, Bangalore*
+<p align="center">
+  <i>M.S. Computer Science — Texas A&M University Kingsville | B.S. Computer Science — PES Institute of Technology, Bangalore</i>
+</p>
+
+<!-- Snake animation — requires GitHub Action setup (see below) -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/suhasmadupuri93/suhasmadupuri93/output/github-snake.svg" alt="Snake animation" />
+</p> -->
