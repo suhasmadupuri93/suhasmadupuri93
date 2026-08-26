@@ -12,7 +12,7 @@
 
 ---
 
-I'm a Senior Software Engineer with **9+ years** in the trenches of distributed systems. My days are spent building **Comcast's internal secrets-management platform** — think HashiCorp Vault, Go microservices, Kafka event pipelines, all running on AKS. My nights (and weekends) go toward **production AI agent infrastructure** — multi-provider LLM routing, RAG pipelines, and durable agent workflows that actually run in prod, not just in notebooks.
+I'm a Senior Software Engineer with **12+ years** in the trenches of distributed systems. My days are spent building **Comcast's internal secrets-management platform** — think HashiCorp Vault, Go microservices, Kafka event pipelines, all running on AKS. My nights (and weekends) go toward **production AI agent infrastructure** — multi-provider LLM routing, RAG pipelines, and durable agent workflows that actually run in prod, not just in notebooks.
 
 Before Comcast, I built claims-processing systems at **Centene** that handled **500K+ records daily** under HIPAA constraints, invoice microservices at **CBRE**, and cut my teeth on Go and Java at **CSS Corp** and **Mindtree** in Bangalore.
 
